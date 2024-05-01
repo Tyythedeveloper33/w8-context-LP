@@ -10,7 +10,7 @@ function add(num1, num2) {
 }
 
 const addTwo = bindToAnArg(add, 2);
-// add(2, 6)
+// add(2, )
 
 const addThree = bindToAnArg(add, 3);
 
